@@ -1,4 +1,4 @@
-#while loop template #1
+#while loop template #1//
 #do something n times
 ct = 0
 while ct < 4:
