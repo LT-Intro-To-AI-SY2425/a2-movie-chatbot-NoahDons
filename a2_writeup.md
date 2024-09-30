@@ -12,9 +12,8 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
+Understanding what thought process would lead to the correct answers in the percent section was the most difficult for me. I wasn't thinking about the problem as a whole and was instead thinking about each case individually. That failed pretty hard for me.
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-
-
+You can swap the underscores for a single word string and the percent signs for multi word strings. You can then use a pattern that the input should match with and print results accordingly.
